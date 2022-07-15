@@ -20,7 +20,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 </p>
 
 ## Snake eating my Contribution Graph
-<div align="center"> <img src="https://raw.githubusercontent.com/neerajap-01/neerajap-01/output/github-contribution-grid-snake.svg" /></div>   
+![snake gif](https://github.com/Lnikita123/Lnikita123/blob/output/github-contribution-grid-snake.gif) 
 
 ### Skills
 
