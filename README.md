@@ -2,7 +2,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 ===========================
 Software Developer Engineer
 ---------------------------
-
+![](https://komarev.com/ghpvc/?username=Lnikita123&color=brightgreen&style=flat) \
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
 
 * 🌍  I'm based in Nagpur, Maharashtra, India
