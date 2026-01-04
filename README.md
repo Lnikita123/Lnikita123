@@ -5,13 +5,14 @@ Software Developer Engineer
 ![](https://komarev.com/ghpvc/?username=Lnikita123&color=brightgreen&style=flat) \
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
 
-* 🌍  I'm based in Nagpur, Maharashtra, India
-* 🖥️  See my portfolio at [Nikita Lilhore]()
-* ✉️  You can contact me at [nikitalilhore1902@gmail.com](nikitalilhore1902@gmail.com)
-* 🧠  I'm full stack developer having 3+ years of experience.
-* 🤝  I'm open to collaborating on Interesting and challenging projects
-* ⚡  I love to watch movies singing and Dancing.
+👩‍💻 About Me
 
+🌍 Location: Nagpur, Maharashtra, India
+🧠 Experience: 3+ years as a Full Stack Developer
+🖥️ Portfolio: Nikita Lilhore https://portfolio-website-pi-henna-36.vercel.app/
+✉️ Email: nikitalilhore1902@gmail.com
+🤝 Open to collaborating on interesting and challenging projects
+⚡ Hobbies: Watching movies, singing, and dancing
 
 <hr>
 <p align="center">
