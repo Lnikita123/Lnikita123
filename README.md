@@ -8,12 +8,16 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 👩‍💻 About Me
 
 🌍 Location: Nagpur, Maharashtra, India
-🧠 Experience: 3+ years as a Full Stack Developer
-🖥️ Portfolio: Nikita Lilhore https://portfolio-website-pi-henna-36.vercel.app/
-✉️ Email: nikitalilhore1902@gmail.com
-🤝 Open to collaborating on interesting and challenging projects
-⚡ Hobbies: Watching movies, singing, and dancing
 
+🧠 Experience: 3+ years as a Full Stack Developer
+
+🖥️ Portfolio: Nikita Lilhore
+[(https://portfolio-website-pi-henna-36.vercel.app/) ]
+✉️ Email: nikitalilhore1902@gmail.com
+
+🤝 Open to collaborating on interesting and challenging projects
+
+⚡ Hobbies: Watching movies, singing, and dancing
 <hr>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Lnikita123&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
