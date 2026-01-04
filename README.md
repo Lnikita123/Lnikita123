@@ -12,7 +12,8 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 🧠 Experience: 3+ years as a Full Stack Developer
 
 🖥️ Portfolio: Nikita Lilhore
-[(https://portfolio-website-pi-henna-36.vercel.app/) ]
+https://portfolio-website-pi-henna-36.vercel.app/
+
 ✉️ Email: nikitalilhore1902@gmail.com
 
 🤝 Open to collaborating on interesting and challenging projects
