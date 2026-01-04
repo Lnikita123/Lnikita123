@@ -8,9 +8,9 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 * 🌍  I'm based in Nagpur, Maharashtra, India
 * 🖥️  See my portfolio at [Nikita Lilhore]()
 * ✉️  You can contact me at [nikitalilhore1902@gmail.com](nikitalilhore1902@gmail.com)
-* 🧠  I'm learning Backend Development
+* 🧠  I'm full stack developer having 3+ years of experience.
 * 🤝  I'm open to collaborating on Interesting and challenging projects
-* ⚡  I love to watch movies singinh and Dancing.
+* ⚡  I love to watch movies singing and Dancing.
 
 
 <hr>
